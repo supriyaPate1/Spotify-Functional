@@ -1,0 +1,75 @@
+
+.top{
+    background-color: black;
+    width:100%;
+    color: white;
+    height:20vh;
+    justify-content: center;
+    /* margin-top: 10px; */
+    padding-top:34px; 
+    padding-left: 80px;
+    display: flex;
+}
+.mainnav{
+  width: 100%;
+}
+
+.purpleBox{
+    text-align: center;
+    background-color:blue;
+    padding-top: 105px;
+    /* padding-bottom: 10px; */
+    width:100%;
+    color: white;
+    padding-bottom: 50px;
+    /* justify-content: center; */
+}
+.purpleBox p{
+    text-size-adjust: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.purpleBox button{
+       color: white;
+       background-color: black;
+       border-radius: 15px;
+       text-decoration: none;
+       margin: 4px 2px;
+       text-decoration: none;
+       border:1px solid black;
+}
+#terms{
+    font-size: 12px;
+}
+.BlackBox{
+    text-align: center;
+    background-color:black;
+    padding-top: 120px;
+    width:100%;
+    color: white;
+    padding-bottom: 40px;
+}
+.BlackBox button{
+    color: black;
+    background-color:white;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 4px 2px;
+    font-size: 12px;
+    border:1px solid white;
+    padding:5px 10px ;
+    
+}
+#bplans{
+    color: white;
+    background-color:blue;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 4px 2px;
+    font-size: 12px;
+    border:1px solid white;
+    padding:5px 10px ;
+    
+
+}

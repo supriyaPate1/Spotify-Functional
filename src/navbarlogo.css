@@ -1,0 +1,44 @@
+.topnavbar{
+    padding-top: 50px;
+    display: flex;
+    background-color: black;
+    /* border: 1px solid red; */
+    justify-content: space-around;
+}
+.leftnav{
+    color: white;
+    /* border: 1px solid green; */
+    height: 10vh;
+    margin-top: 0;
+    width: 60%;
+
+}
+.rightnav span{
+    cursor: pointer;
+
+}
+
+
+.leftnav span:hover{
+    cursor: pointer;
+    color: green;
+
+}
+.rightnav{
+    color: white;
+    /* border: 1px solid green; */
+    height: 10vh;
+    margin-top: 0;
+    padding-top: 10px;
+    float: left;
+
+}
+.spp h2{
+    margin-top: -10%;
+    margin-left: 8%;
+}
+
+.leftnav img{
+    margin-left: 40px;
+    height: 8vh;
+}

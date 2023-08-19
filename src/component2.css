@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.row{
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.image1 {
+  flex: 13.33%;
+  padding: 5px;
+  padding-top:30px;
+  text-align: center;
+ 
+}
+.toph{
+  padding-top:50px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: whitelack;
+  color: black;
+  margin-top: -40px;
+}
+.row img{
+  height:25vh;
+  width: 40%;
+}
+.tophead h1{
+  padding-top: 20px;
+}

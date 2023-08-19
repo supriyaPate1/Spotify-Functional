@@ -1,0 +1,24 @@
+
+.row{
+  display: flex;
+  flex: 13.33%;
+}
+
+/* Create three equal columns that sits next to each other */
+.column1 {
+  flex: 13.33%;
+  padding: 5px;
+  padding-top:30px;
+  text-align: center;
+  
+}
+.tophead{
+  padding-top:30px;
+  padding-bottom: 110px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.column1 img{
+  width:80%
+}
